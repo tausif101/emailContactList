@@ -17,6 +17,27 @@ EmailContactList is a contact management app built using React JS and Firebase a
 - Firebase
 - Tailwind CSS
 
+
+## Folder Structure
+
+- **src:** Contains all source files.
+  - **components:** Contains all React components.
+  - **assets:** Contains all asset files.
+  - **config:** Contains the Firebase configuration file.
+
+## Usage
+
+To use the EmailContactList application on your local machine:
+
+1. Follow the installation steps to set up the project.
+2. Run the development server using `npm run dev`.
+3. Open a web browser and navigate to `http://localhost:3000`.
+
+## Purpose
+
+The purpose of this project is to provide a practical learning experience in-depth with React JS and to apply modern tools for front-end development.
+
+
 ## Installation
 
 1. Clone the repository:
@@ -39,23 +60,3 @@ EmailContactList is a contact management app built using React JS and Firebase a
 
   ```bash
   npm run dev
-
-
-## Folder Structure
-
-- **src:** Contains all source files.
-  - **components:** Contains all React components.
-  - **assets:** Contains all asset files.
-  - **config:** Contains the Firebase configuration file.
-
-## Usage
-
-To use the EmailContactList application on your local machine:
-
-1. Follow the installation steps to set up the project.
-2. Run the development server using `npm run dev`.
-3. Open a web browser and navigate to `http://localhost:3000`.
-
-## Purpose
-
-The purpose of this project is to provide a practical learning experience in-depth with React JS and to apply modern tools for front-end development.
